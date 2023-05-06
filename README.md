@@ -15,12 +15,32 @@ Responda si existe algún dataset de este tipo clasificado con medalla de oro. E
 
 
 # Necesidades - bibliotecas:
--> pandas
+- pandas
 
--> numpy
+- numpy
 
--> matplotlib
+- matplotlib
 
--> vaderSentiment 
+- vaderSentiment 
 
--> nltk
+- nltk
+
+# Pasos:
+1. Presentar y cargar datos.
+2. Limpieza csv:
+
+        -> Información general.
+
+        -> Eliminar caracteres como # y @.
+        
+        -> Eliminar valores faltantes o nulos.
+
+        -> Eliminar duplicados.
+3. Analizar datos:
+
+        -> Evolución de la cantidad de tweets en el tiempo.
+
+        -> Visualizar tweets por región.
+    
+        -> Gráfico pastel sobre los tweets positivos, negativos y neutros.
+4. Exportar datos.
