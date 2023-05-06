@@ -43,4 +43,4 @@ Responda si existe algún dataset de este tipo clasificado con medalla de oro. E
         -> Visualizar tweets por región.
     
         -> Gráfico pastel sobre los tweets positivos, negativos y neutros.
-4. Exportar datos
+4. Exportar datos.
